@@ -19,13 +19,12 @@ Atualmente o site está sendo desenvolvido utilizando **HTML** e **CSS**, e em b
 
 ```bash
 portfolio/
-│
+├── assets/
+│   └── images
+├── about.html
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
 └── README.md
 ```
 

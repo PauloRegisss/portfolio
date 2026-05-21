@@ -1,1 +1,99 @@
-## Portfolio Dev - 2026
+# 🚀 Portfólio Pessoal
+
+Bem-vindo ao meu portfólio!  
+Esse projeto foi desenvolvido com o objetivo de apresentar meus projetos, habilidades e evolução como desenvolvedor.
+
+Atualmente o site está sendo desenvolvido utilizando **HTML** e **CSS**, e em breve receberá funcionalidades dinâmicas com **JavaScript**.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript *(em desenvolvimento)*
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
+```
+
+---
+
+## 🎯 Objetivo do Projeto
+
+O objetivo desse portfólio é:
+
+- Apresentar meus projetos
+- Praticar desenvolvimento front-end
+- Melhorar responsividade e design
+- Evoluir minhas habilidades com JavaScript
+- Criar uma identidade profissional na área de tecnologia
+
+---
+
+## ✨ Funcionalidades
+
+- Layout responsivo
+- Sessão de apresentação
+- Área de projetos
+- Contato/redes sociais
+- Animações e interações *(planejado com JavaScript)*
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento desse projeto, estou praticando:
+
+- Estruturação com HTML
+- Estilização com CSS
+- Organização de projeto
+- Versionamento com Git e GitHub
+- Manipulação do DOM com JavaScript *(próxima etapa)*
+
+---
+
+## 🔧 Como Executar o Projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/PauloRegisss/portfolio.git
+```
+
+2. Abra a pasta do projeto.
+
+3. Execute o arquivo `index.html` no navegador.
+
+---
+
+## 📌 Próximas Melhorias
+
+- Implementar JavaScript
+- Adicionar animações
+- Melhorar acessibilidade
+- Adicionar projetos reais
+- Deploy online
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Paulo Regis**.
+
+- GitHub: https://github.com/PauloRegisss
+- LinkedIn: www.linkedin.com/in/paulo-césar-régis-de-lima
+
+---

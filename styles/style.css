@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;700&display=swap');
 
 :root {
     --cor-principal: #000000;
@@ -6,8 +6,8 @@
     --cor-terciaria: #82c4cc;
     --cor-hover: #272727;
 
-    --font-principal: 'Krona One', sans-serif;
-    --font-secundaria: 'Montserrat', sans-serif;
+    --font-principal: 'Space Grotesk', sans-serif;
+    --font-secundaria: 'Inter', sans-serif;
 }
 
 * {

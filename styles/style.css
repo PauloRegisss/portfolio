@@ -190,6 +190,13 @@ body {
     transition: 0.3s;
 }
 
+.texto_desenvolvimento {
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-left: 8px;
+}
+
 
 @media (max-width: 1200px) {
     .cabecalho {

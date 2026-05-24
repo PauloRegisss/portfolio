@@ -172,7 +172,7 @@ body {
     transform: scale(1.03);
 }
 
-.rodape {
+/* .rodape {
     padding: 24px;
     color: var(--cor-principal);
     background-color: var(--cor-terciaria);
@@ -181,7 +181,7 @@ body {
     font-size: 1.5rem;
     font-weight: 400;
     text-shadow: 0 0 10px rgba(34, 212, 253, 0.5);
-}
+} */
 
 .projeto__links{
     color: var(--cor-secundaria);
@@ -277,8 +277,8 @@ body {
         font-size: 1.25rem; 
     }
 
-    .rodape {
+    /* .rodape {
         font-size: 1.25rem;
         font-family: var(--font-principal);
-    }
+    } */
 }

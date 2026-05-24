@@ -138,6 +138,13 @@ body {
     text-shadow: 0 0 10px rgba(34, 212, 253, 0.5);
 }
 
+#digitando {
+    background: linear-gradient(90deg, #82c4cc, #22d4fd, #ffffff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .apresentacao__links__navegacao {
     display: flex;
     justify-content: center;

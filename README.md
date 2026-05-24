@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio!  
 Esse projeto foi desenvolvido com o objetivo de apresentar meus projetos, habilidades e evolução como desenvolvedor.
 
-Atualmente o site está sendo desenvolvido utilizando **HTML** e **CSS**, e em breve receberá funcionalidades dinâmicas com **JavaScript**.
+Atualmente o site está sendo desenvolvido utilizando **HTML**/**CSS** e **JavaScript**.
 
 ---
 
@@ -23,9 +23,10 @@ portfolio/
 │   └── images
 ├── about.html
 ├── index.html
+├── projects.html
 ├── style.css
-├── script.js
-└── README.md
+├── README.md
+└── script.js
 ```
 
 ---

@@ -48,7 +48,7 @@ O objetivo desse portfólio é:
 - Sessão de apresentação
 - Área de projetos
 - Contato/redes sociais
-- Animações e interações *(planejado com JavaScript)*
+- Animações e interações
 
 ---
 
@@ -80,11 +80,11 @@ git clone https://github.com/PauloRegisss/portfolio.git
 
 ## 📌 Próximas Melhorias
 
-- Implementar JavaScript
-- Adicionar animações
-- Melhorar acessibilidade
-- Adicionar projetos reais
-- Deploy online
+- Implementar JavaScript ✅
+- Adicionar animações ✅
+- Melhorar acessibilidade ✅
+- Adicionar projetos reais ✅
+- Deploy online ✅
 
 ---
 

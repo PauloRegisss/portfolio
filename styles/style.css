@@ -101,7 +101,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 2rem; 
+    font-size: 3.5rem; 
     font-family: var(--font-principal);
     text-shadow: 0 0 10px rgba(34, 212, 253, 0.5);
 }
@@ -112,7 +112,8 @@ body {
 }
 
 .apresentacao__conteudo__texto {
-    line-height: 1.6;
+    font-size: 1.4rem;
+    line-height: 1.8;
 }
 
 .apresentacao__links {

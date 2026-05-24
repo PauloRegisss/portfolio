@@ -18,3 +18,19 @@ function escrever() {
 }
 
 escrever();
+
+let contador = document.getElementById('contador');
+
+let numero = 20;
+
+const intervalo = setInterval(() => {
+
+    numero++;
+
+    contador.innerHTML = numero;
+
+    if(numero >= 100){
+        clearInterval(intervalo);
+    }
+
+}, 20);

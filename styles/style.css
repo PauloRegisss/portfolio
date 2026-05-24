@@ -223,6 +223,43 @@ body {
     margin-left: 8px;
 }
 
+.stats {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+.stat-box {
+    padding: 20px;
+    border: 2px solid var(--cor-terciaria);
+    border-radius: 12px;
+    min-width: 140px;
+    text-align: center;
+
+    box-shadow:
+        0 0 15px rgba(34, 212, 253, 0.2);
+
+    transition: 0.3s;
+}
+
+.stat-box:hover {
+    transform: translateY(-5px);
+    box-shadow:
+        0 0 25px rgba(34, 212, 253, 0.4);
+}
+
+.stat-box h2 {
+    font-size: 2.5rem;
+    color: var(--cor-terciaria);
+    font-family: var(--font-principal);
+}
+
+.stat-box p {
+    font-size: 1rem;
+    color: var(--cor-secundaria);
+}
+
 
 @media (max-width: 1200px) {
     .cabecalho {
@@ -290,3 +327,4 @@ body {
         font-family: var(--font-principal);
     } */
 }
+

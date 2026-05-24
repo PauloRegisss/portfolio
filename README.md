@@ -35,9 +35,9 @@ portfolio/
 O objetivo desse portfólio é:
 
 - Apresentar meus projetos
-- Praticar desenvolvimento front-end
+- Praticar desenvolvimento Back-End
 - Melhorar responsividade e design
-- Evoluir minhas habilidades com JavaScript
+- Evoluir minhas habilidades com JavaScript e
 - Criar uma identidade profissional na área de tecnologia
 
 ---

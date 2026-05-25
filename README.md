@@ -18,13 +18,15 @@ Atualmente o site está sendo desenvolvido utilizando **HTML**/**CSS** e **JavaS
 ## 📂 Estrutura do Projeto
 
 ```bash
+
 portfolio/
 ├── assets/
 │   └── images
+├── styles
+│   └──style.css
 ├── about.html
 ├── index.html
 ├── projects.html
-├── style.css
 ├── README.md
 └── script.js
 ```
@@ -47,6 +49,7 @@ O objetivo desse portfólio é:
 
 - Layout responsivo
 - Sessão de apresentação
+- Sobre mim
 - Área de projetos
 - Contato/redes sociais
 - Animações e interações

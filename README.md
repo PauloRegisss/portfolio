@@ -89,6 +89,7 @@ git clone https://github.com/PauloRegisss/portfolio.git
 - Melhorar acessibilidade ✅
 - Adicionar projetos reais ✅
 - Deploy online ✅
+- Implementar opção de PT-BR/ENG *em desemvolvimento*
 
 ---
 

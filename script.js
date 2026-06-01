@@ -4,7 +4,7 @@ window.addEventListener("load", () => {
     loader.classList.add("fade-out");
 });
 
-const texto = "Código limpo, APIs eficientes e sistemas confiáveis.";
+const texto = "Clean code, efficient APIs, and reliable systems.";
 const elemento = document.getElementById("digitando");
 
 let i = 0;

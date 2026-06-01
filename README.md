@@ -11,7 +11,8 @@ Atualmente o site está sendo desenvolvido utilizando **HTML**/**CSS** e **JavaS
 
 - HTML5
 - CSS3
-- JavaScript *(em desenvolvimento)*
+- JavaScript
+- README
 
 ---
 
@@ -64,7 +65,7 @@ Durante o desenvolvimento desse projeto, estou praticando:
 - Estilização com CSS
 - Organização de projeto
 - Versionamento com Git e GitHub
-- Manipulação do DOM com JavaScript *(próxima etapa)*
+- Manipulação do DOM com JavaScript *(em desenvolvimento)*
 
 ---
 
